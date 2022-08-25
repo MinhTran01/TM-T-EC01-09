@@ -1,0 +1,17 @@
+.Information{
+    text-align: left;
+}
+
+p {
+    margin: 0 0 10px 0;
+}
+
+h4{
+    margin-top: 1rem;
+}
+
+.btn-lg{
+    font-size: 16px;
+    font-weight: 500;
+    
+}

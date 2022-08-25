@@ -1,0 +1,17 @@
+.me-auto{
+    width:100%;
+    justify-content: space-around;
+}
+
+.container{
+    width:100%;
+}
+.row{
+    width:100%;
+    display:flex;
+    flex-flow: nowrap;
+}
+.col{
+    width:20%;
+    text-align: center;
+}

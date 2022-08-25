@@ -1,0 +1,8 @@
+.view-product-display{
+    position: relative;
+    transition: all ease 0.5s;
+    }
+    
+    .view-product-display:hover {
+    transform: scale(0.8);
+    }

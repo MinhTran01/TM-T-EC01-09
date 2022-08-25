@@ -1,0 +1,22 @@
+.carousel.ProductDetial{
+    width: 90%;
+    margin-left: 5%;
+    padding-bottom: 10px;
+}
+
+h2{
+    padding: 20px;
+    text-align: center;
+}
+
+.FormSelect .col{
+    text-align: left;
+}
+
+.like{
+    color:gainsboro;
+}
+
+.like:hover{
+    color: red;
+}
